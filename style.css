@@ -1,4 +1,32 @@
-html {
+.html {
   height: 100%;
   width: 100%;
+}
+.navbar {
+  background-color:#ffa57d;
+  color:white;
+}
+
+.about {
+  background-color: #b18cfe;
+  color:#006d8f;
+}
+
+.about:hover {
+  background-color: #ff9300;
+}
+
+
+.skills{
+  background-color:#ff6251;
+  color:#d4e3fe;
+}
+
+.contact{
+   background-color:red;
+   color:#0433ff;
+}
+
+body{
+  margin: 0px;
 }
